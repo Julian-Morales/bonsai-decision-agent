@@ -1,0 +1,6 @@
+product_id,line_id,processing_hours_per_unit,variable_cost_per_unit
+P1,L1,0.5,4.0
+P1,L2,0.6,4.5
+P2,L1,0.7,5.0
+P2,L2,0.5,4.2
+P3,L2,0.8,6.0

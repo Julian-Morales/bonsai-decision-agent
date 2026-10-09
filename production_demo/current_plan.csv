@@ -1,0 +1,4 @@
+product_id,line_id,regular_units,overtime_units,units
+P1,L1,100,0,100
+P2,L2,64,16,80
+P3,L2,60,0,60
